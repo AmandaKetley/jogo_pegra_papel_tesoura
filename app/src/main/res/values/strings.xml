@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pedra, Papel ou Tesoura</string>
+    <string name="derrotas">Derrotas</string>
+    <string name="vit_rias">Vitórias</string>
+    <string name="_0">0</string>
+    <string name="sele_o_do_android">Seleção do Android</string>
+    <string name="resultado">Resultado</string>
+    <string name="empates">Empates</string>
+    <string name="escolha_uma_op_o">Escolha uma opção</string>
+    <string name="zero">0</string>
+</resources>
